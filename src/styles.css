@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.color-changer{
+    height: 100vh;
+    background-color:#121212 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.ccbtn{
+    background: none;
+    border: 1px solid white;
+    color: white;
+    font-size: large;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+.ccbtn:hover{
+    box-shadow: 1px 1px 10px -2px white;
+    padding: 12px;
+    background: #79797977;
+}
+.color-note{
+    margin-bottom: 25%;
+    font-size: x-large;
+    font-family: vazir;
+    color: white;
+    background: #79797977;
+    padding: 10px;
+    border-radius: 5px;
+}
