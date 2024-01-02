@@ -29,7 +29,7 @@ const setBg = () => {
     let div = document.getElementById("color-changer");
     div.style.backgroundColor ="#" + randomColor;
     let color_note = document.getElementById("color-note");
-    color_note.innerHTML = "current color = " + "#" + randomColor;
+    color_note.innerHTML = "current background color = " + "#" + randomColor;
 }
 function ccbtn(){
     setBg();

@@ -13,7 +13,7 @@
 }
 .ccbtn{
     background: none;
-    border: 1px solid white;
+    border: 1px solid black;
     color: white;
     font-size: large;
     padding: 10px;
@@ -24,7 +24,8 @@
 .ccbtn:hover{
     box-shadow: 1px 1px 10px -2px white;
     padding: 12px;
-    background: #79797977;
+    color: black;
+    background: #797979a9;
 }
 .color-note{
     margin-bottom: 25%;

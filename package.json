@@ -1,6 +1,6 @@
 {
   "name": "color-changer",
-  "version": "1.5.0",
+  "version": "2.0.1",
   "description": "a simple practice code to change the background color when you click the button to a random color",
   "main": "main.html",
   "scripts": {
